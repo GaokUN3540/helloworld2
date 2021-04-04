@@ -1,6 +1,8 @@
 # helloworld2
-#这个程序用来测试
-##测试
-*#测试
-#####测试
-测试
+
+#include <stdio.h>
+
+int main()
+{
+  printf("GO go  go !!!\n");
+}
